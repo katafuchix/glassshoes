@@ -1,0 +1,9 @@
+/* 
+   InfoPlist.strings
+   glassshoes
+
+   Created by james Lee on 11/10/13.
+   Copyright 2011 __MyCompanyName__. All rights reserved.
+ */
+CFBundleName = "glassshoes";
+CFBundleDisplayName = "glassshoes";
